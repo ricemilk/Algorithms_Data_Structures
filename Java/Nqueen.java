@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-
-
 public class Nqueen {
     public ArrayList<String[]> solveNQueens(int n) {
         // Start typing your Java solution below
